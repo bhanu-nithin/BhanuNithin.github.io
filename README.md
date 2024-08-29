@@ -20,7 +20,7 @@
 
 Developed a data pipeline using the Spotify API to extract, clean, and analyze data . Utilized Jupyter Notebook for initial data extraction and transformation, ensuring data was properly formatted. Stored the processed data in Amazon S3 and employed AWS Lambda functions for automated data transformation. Used Snowflake for data warehousing and implemented Snow pipes to streamline and automate the data loading process. Configured event triggers to manage automatic data transformation and loading. Leveraged Power BI for analytics, providing real-time insights through automated data processing and visualization.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Pipeline Architecture](/assets/ETL_Pipeline_Architecture.jpg)
 
 
 
