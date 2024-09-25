@@ -28,6 +28,6 @@ Developed a data pipeline using the Spotify API to extract, clean, and analyze d
 
 This e-commerce project implements an end-to-end data pipeline using Azure services. Data is ingested into Azure Data Lake Storage Gen2 both manually and automatically via Azure Data Factory (ADF), with ADF triggers automating the conversion of raw data into parquet files. Azure Databricks is used for ETL processing, utilizing the Medallion Architecture (Bronze, Silver, Gold layers) to clean and transform data. The entire process is automated using Databricks Workflows, and the results are queried through the SQL editor for business insights.
 
-![Pipeline Architecture](assets/E_commerce_architecture.jpg)
+![Architecture Diagram](assets/E_commerce_architecture.jpg)
 
 
