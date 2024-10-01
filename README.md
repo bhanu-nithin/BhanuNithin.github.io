@@ -13,6 +13,19 @@
 - Skilled in CI/CD pipeline implementation and management using Jenkins and GitHub Actions, and proficient in writing bash shell scripts and using UNIX utilities.
 - Experienced in agile and waterfall methodologies, with a strong foundation in business operations, problem-solving, and collaborative teamwork, ensuring adherence to deadlines and high-quality deliverables.
 
+**ETL Developer  @ Nexus Software, Bangalore, India (January 2020 – March 2021)**
+-	Designed and developed ETL pipelines for an e-commerce company using Informatica PowerCenter to integrate customer, transactional, and product data.
+-	Built scalable cloud-based pipelines with AWS (S3, Redshift, EC2) for real-time analytics and reporting.
+-	Implemented data transformations to ensure accuracy and consistency across business processes like customer analysis, sales reporting, and product performance.
+-	Conducted data quality checks and implemented automated workflows for auditing, validation, and error handling.
+-	Improved data loading performance and resolved ETL issues, leading to faster processing times and reduced downtime.
+
+**Intern @ Nexus Software, Bangalore, India   (August 2019 – January 2020)**
+-	Assisted in the development and testing of ETL pipelines as part of the data engineering team, gaining valuable hands-on experience in data integration processes and gained practical experience with Informatica for data transformation, loading, and integration, working on diverse datasets and ensuring data quality.
+-	Assisted in utilizing AWS services like S3 for data storage, Redshift for data warehousing, and Lambda for serverless processing, learning the fundamentals of cloud-based architecture.
+-	Collaborated with senior developers to understand and implement best practices in ETL development, including data mapping and scheduling tasks.
+
+
 
 ## Projects
 ### Spotify ETL Pipeline using AWS and Snowflake
